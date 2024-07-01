@@ -8,5 +8,5 @@ My full paper list is shown at [Google Scholar](https://scholar.google.com/citat
 - ``CVPR 2023`` [Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang\_Out-of-Distributed\_Semantic\_Pruning\_for\_Robust\_Semi-Supervised\_Learning\_CVPR\_2023\_paper.pdf), **Yu Wang\***, Pengchong Qiao*, Chang Liu, Guoli Song, Xiawu Zheng, Jie Chen.
 
 #### Safety AI
-- ``Arxiv 2024`` [*AdaShield*: Safeguarding Multimodal LLMs from Structure-based Attack via Adaptive Shield Prompting](), **Yu Wang**, Xiaogeng Liu , Yu Li, Muhao Chen, Chaowei Xiao
+- ``ECCV 2024`` [*AdaShield*: Safeguarding Multimodal LLMs from Structure-based Attack via Adaptive Shield Prompting](), **Yu Wang**, Xiaogeng Liu , Yu Li, Muhao Chen, Chaowei Xiao
 
