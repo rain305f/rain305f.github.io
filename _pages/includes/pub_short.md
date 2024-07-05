@@ -9,6 +9,4 @@ My full paper list is shown at [Google Scholar](https://scholar.google.com/citat
 
 #### Safety AI
 - ``ECCV 2024`` [*AdaShield*: Safeguarding Multimodal LLMs from Structure-based Attack via Adaptive Shield Prompting](https://arxiv.org/pdf/2403.09513), **Yu Wang**, Xiaogeng Liu , Yu Li, Muhao Chen, Chaowei Xiao. [Code](https://github.com/SaFoLab-WISC/AdaShield)
-- ``arxiv`` [*Visual-RolePlay*: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Characte](https://arxiv.org/pdf/2403.09513), Siyuan Ma, Weidi Luo, **Yu Wang**, Xiaogeng Liu.
-- ``arxiv`` [*Peer-review-in-LLMs*: Automatic Evaluation Method for LLMs in Open-environment](https://arxiv.org/pdf/2405.20773), Kun-Peng Ning, Shuo Yang, Yu-Yang Liu, Jia-Yu Yao, Zhen-Hui Liu, **Yu Wang**, Ming Pang, Li Yuan.
 - ``Awesome Github Repo`` [Awesome-T2I-safety-Papers](https://github.com/SaFoLab-WISC/Awesome-T2I-safety-Papers).
