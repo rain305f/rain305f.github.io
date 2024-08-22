@@ -1,5 +1,5 @@
 # ✨ About me
-Bonjour, I am currently a master student at the School of Electronic and Computer Engineering, [Peking University](https://www.pku.edu.cn/), advised by [Prof. Li Yuan](https://yuanli2333.github.io/) and [Prof. Jie Chen](https://scholar.google.fi/citations?user=ZAZFfwwAAAAJ&hl=en). Before this, I received a B.S. degree from the College of Computer Science (Elite Class), in [Jilin University](https://www.jlu.edu.cn/), in 2022.
+Bonjour, I am currently a master student at the School of Electronic and Computer Engineering, [Peking University](https://www.pku.edu.cn/), advised by [Prof. Jie Chen](https://scholar.google.fi/citations?user=ZAZFfwwAAAAJ&hl=en). Before this, I received a B.S. degree from the College of Computer Science (Elite Class), in [Jilin University](https://www.jlu.edu.cn/), in 2022.
 
 My research interests are Trustworthy AI, especially:
 - (a) Foundation Model (e.g. LLM/LMM) Safety
