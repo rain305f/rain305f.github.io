@@ -1,5 +1,5 @@
 # 💪 Academic Service
-- **PC Member**: CVPR'24, ICLR'24, ICML'24, ACM MM'24, ECCV'24, NeurIPS'24
+- **PC Member**: CVPR'24, ICLR'24, ICML'24-25, ACM MM'24, ECCV'24, NeurIPS'24-25, AAAI'26
 
 # 🙌 Open Source Contribution
 - **Github**: [Open Sora Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan), Peking University, Yuan Group, Contributors, 10.9k Stars. 

@@ -10,3 +10,8 @@ My full paper list is shown at [Google Scholar](https://scholar.google.com/citat
 #### Safety AI
 - ``ECCV 2024`` [*AdaShield*: Safeguarding Multimodal LLMs from Structure-based Attack via Adaptive Shield Prompting](https://arxiv.org/pdf/2403.09513), **Yu Wang**, Xiaogeng Liu , Yu Li, Muhao Chen, Chaowei Xiao. [[Code]](https://github.com/SaFoLab-WISC/AdaShield)
 - ``Awesome Github Repo`` [Awesome-T2I-safety-Papers](https://github.com/SaFoLab-WISC/Awesome-T2I-safety-Papers).
+
+
+#### AIGC
+- ``AAAI 2025`` [*AnyTalk*: Multi-modal Driven Multi-domain Talking Head Generation](https://ojs.aaai.org/index.php/AAAI/article/view/32874), **Yu Wang**, Yunfei Liu, Fa-Ting Hong, Meng Cao, Lijian Lin, Yu Li
+
