@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yu Wang"
-description              : "I am currently a second-year MSc student in Peking University. I am actively seeking a PhD position in North America for Fall 2025."
+description              : "I am currently a first-year Ph.D. student in the Department of Computer Sciences at the University of Wisconsin–Madison."
 repository               : "rain305f/rain305f.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yu Wang"
   avatar           : "images/wangyu.jpg"
-  bio              : "Peking University"
-  location         : "Beijing"
+  bio              : "University of Wisconsin–Madison"
+  location         : "Madison, WI"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=lzsu-5MAAAAJ"
-  email            : "rain_wang@stu.pku.edu.cn"
+  email            : "ywang3689@wisc.edu"
   uri              : 
   bitbucket        :
   codepen          :
