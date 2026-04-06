@@ -3,6 +3,6 @@ Bonjour, I am a Ph.D. student in the Department of Computer Sciences at [the Uni
 
 My research focuses on the intersection of Trustworthy Multimodal Systems, with a particular focus on:
 - **Interpretability and Mechanistic Alignment:** Investigating the internal decision-making of multimodal models to ensure their reasoning is transparent and safety-aligned.
-- **Alignment Tuning and Post-training:** Optimizing post-training paradigms (e.g., SFT, DPO) to enhance cross-modal synergy and mitigate hallucinations in large multimodal models.
+- **Alignment Tuning and Post-training:** Optimizing post-training paradigms (e.g., SFT, DPO) to enhance cross-modal capability and mitigate hallucinations in large multimodal models.
 
 😃 **I am seeking research collaboration opportunities. Feel free to contact me if you are interested in potential collaboration!**
